@@ -5,6 +5,7 @@ public class PrintMessage{
         String msg= "Welcome to object oriented programming";
         System.out.println(msg);
         System.out.println(Sushmitha);
+        System.out.println(Priyanka);
     }
 }
 //this is a github demo
